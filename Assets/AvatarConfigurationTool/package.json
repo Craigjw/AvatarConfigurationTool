@@ -1,0 +1,23 @@
+{
+  "name": "avatarconfigurationtool",
+  "version": "1.0.0",
+  "displayName": "Avatar Configuration Tool",
+  "description": "Avatar Configuration Tool Package",
+  "unity": "2019.4",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "Avatar",
+    "Configuration",
+    "Tool"
+  ],
+  "author": {
+    "name": "Exars Emporium",
+    "email": "ExarsEmporium@gmail.com",
+    "url": "https://exarsemporium.wixsite.com/index"
+  },
+  "type": "tool",
+  "hideInEditor": true
+}

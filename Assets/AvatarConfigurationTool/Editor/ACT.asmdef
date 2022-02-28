@@ -1,0 +1,15 @@
+{
+    "name": "ACT",
+    "references": [
+        "GUID:b51da14a515616947b3f21a5b2e5fcaa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,28 @@
+{
+    "DefaultBoneColour": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+    },
+    "CurrentBoneColour": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.2980392277240753
+    },
+    "SavedBoneColour": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "GlobalJointSize": 1.0,
+    "GlobalFingerJointSize": 1.0,
+    "DefaultJointSize": 0.029999999329447748,
+    "CurrentJointSize": 0.029999999329447748,
+    "SavedJointSize": 0.029999999329447748,
+    "DefaultFingerJointSize": 0.017000000923871995,
+    "CurrentFingerJointSize": 0.017000000923871995,
+    "SavedFingerJointSize": 0.017000000923871995
+}
